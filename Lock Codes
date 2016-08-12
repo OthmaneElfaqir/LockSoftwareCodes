@@ -1,3 +1,7 @@
+Imports system.io
+
+--------------------------------------------
+
 List Box Historique Code :
 
  ListBox1.Items.Add(My.Settings.list)
